@@ -13,6 +13,8 @@ import javax.faces.bean.ManagedBean;
 import javax.faces.bean.SessionScoped;
 import java.io.Serializable;
 
+
+//branch change
 @ManagedBean
 @SessionScoped
 public class HelloBean implements Serializable {
