@@ -2,6 +2,8 @@
 
 package test2;
 
+
+c1 m
 import java.io.Serializable;
 
 import javax.faces.bean.ManagedBean;
