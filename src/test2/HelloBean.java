@@ -2,8 +2,6 @@
 
 package test2;
 
-
-//c1 m
 import java.io.Serializable;
 
 import javax.faces.bean.ManagedBean;
@@ -14,7 +12,7 @@ import javax.faces.bean.SessionScoped;
 import java.io.Serializable;
 
 
-//master  change
+//branch change merged again
 @ManagedBean
 @SessionScoped
 public class HelloBean implements Serializable {
