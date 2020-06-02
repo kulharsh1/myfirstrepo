@@ -12,7 +12,7 @@ import javax.faces.bean.SessionScoped;
 import java.io.Serializable;
 
 
-//branch change
+//branch change merged again
 @ManagedBean
 @SessionScoped
 public class HelloBean implements Serializable {
