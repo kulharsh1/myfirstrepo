@@ -14,7 +14,7 @@ import javax.faces.bean.SessionScoped;
 import java.io.Serializable;
 
 
-//branch change
+//master  change
 @ManagedBean
 @SessionScoped
 public class HelloBean implements Serializable {
